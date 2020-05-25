@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: LenMus 5.4.7\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-18 10:16+0200\n"
-"PO-Revision-Date: 2020-04-18 10:16+0200\n"
-"Last-Translator: Mauro Giubileo <mgone@inwind.it>\n"
+"PO-Revision-Date: 2020-05-25 10:16+0100\n"
+"Last-Translator: Albano Battistella <albano_battistella@hotmail.com>\n"
 "Language-Team: Cecilio Salmeron <s.cecilio@gmail.com>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -431,7 +431,7 @@ msgstr "Cambia tonalità della nota"
 
 #: src/app/lenmus_command_event_handler.cpp:1126
 msgid "Change color property"
-msgstr ""
+msgstr "Cambia proprietà colore"
 
 #: src/app/lenmus_command_event_handler.cpp:1142
 #, fuzzy
@@ -525,12 +525,12 @@ msgstr "Chiudi senza salvare il file"
 #: src/app/lenmus_document_canvas.cpp:2299
 #: src/app/lenmus_document_canvas.cpp:2351 src/app/lenmus_main_frame.cpp:804
 msgid "Header"
-msgstr ""
+msgstr "Intestazione"
 
 #: src/app/lenmus_document_canvas.cpp:2311
 #: src/app/lenmus_document_canvas.cpp:2363 src/app/lenmus_main_frame.cpp:806
 msgid "Paragraph"
-msgstr ""
+msgstr "Paragrafo"
 
 #: src/app/lenmus_document_canvas.cpp:2408
 #: src/app/lenmus_document_canvas.cpp:2433
@@ -625,13 +625,12 @@ msgid "Score"
 msgstr "Partitura"
 
 #: src/app/lenmus_main_frame.cpp:810
-#, fuzzy
 msgid "Insert ..."
-msgstr "Inserisci chiave"
+msgstr "Inserisci..."
 
 #: src/app/lenmus_main_frame.cpp:810
 msgid "Insert new content in the document"
-msgstr ""
+msgstr "Inserisci nuovo contenuto nel documento"
 
 #: src/app/lenmus_main_frame.cpp:820
 msgid "Tool bar"
@@ -659,7 +658,7 @@ msgstr "Nascondi / mostra il sommario per il libro corrente"
 
 #: src/app/lenmus_main_frame.cpp:828 src/app/lenmus_main_frame.cpp:2172
 msgid "Virtual keyboard"
-msgstr ""
+msgstr "Tastiera virtuale"
 
 #: src/app/lenmus_main_frame.cpp:829
 #, fuzzy
@@ -668,11 +667,11 @@ msgstr "Mostra/nascondi righelli"
 
 #: src/app/lenmus_main_frame.cpp:830 src/app/lenmus_main_frame.cpp:2860
 msgid "Command console"
-msgstr ""
+msgstr "Console di comando"
 
 #: src/app/lenmus_main_frame.cpp:831
 msgid "Show the commands console"
-msgstr ""
+msgstr "Mostra la console dei comandi"
 
 #: src/app/lenmus_main_frame.cpp:835
 msgid "Welcome page"
@@ -684,11 +683,11 @@ msgstr "Mostra/nascondi pagina di benvenuto"
 
 #: src/app/lenmus_main_frame.cpp:838
 msgid "Show voices in colors"
-msgstr ""
+msgstr "Mostra voci a colori"
 
 #: src/app/lenmus_main_frame.cpp:839
 msgid "Use a different colour for each voice"
-msgstr ""
+msgstr "Usa un colore diverso per ogni voce"
 
 #: src/app/lenmus_main_frame.cpp:950 src/app/lenmus_main_frame.cpp:1757
 #: src/app/lenmus_main_frame.cpp:2998
@@ -763,11 +762,11 @@ msgstr "Pausa riproduzione"
 
 #: src/app/lenmus_main_frame.cpp:979
 msgid "Do count off"
-msgstr ""
+msgstr "Contare"
 
 #: src/app/lenmus_main_frame.cpp:980
 msgid "Do count off before starting the play back"
-msgstr ""
+msgstr "Contare prima di iniziare la riproduzione"
 
 #: src/app/lenmus_main_frame.cpp:983
 msgid "Metronome on"
@@ -843,7 +842,7 @@ msgstr "Cerca"
 
 #: src/app/lenmus_main_frame.cpp:1022
 msgid "Search help documentation"
-msgstr ""
+msgstr "Cerca nella documentazione di aiuto"
 
 #: src/app/lenmus_main_frame.cpp:1024
 msgid "Check now for updates"
@@ -1081,7 +1080,7 @@ msgstr "Violino e piano"
 
 #: src/app/lenmus_score_wizard.cpp:192
 msgid "Voice and keyboard"
-msgstr ""
+msgstr "Voce e tastiera"
 
 #: src/app/lenmus_score_wizard.cpp:274
 #, c-format
@@ -1166,7 +1165,7 @@ msgstr ""
 
 #: src/app/lenmus_status_bar.cpp:130
 msgid "Display page and time referred to caret position"
-msgstr ""
+msgstr "Visualizza la pagina e l'ora riferite alla posizione del cursore"
 
 #: src/app/lenmus_welcome_window.cpp:132
 msgid "Welcome to LenMus"
@@ -1187,7 +1186,7 @@ msgstr "Novità di LenMus"
 
 #: src/app/lenmus_welcome_window.cpp:171
 msgid "Report an error or make suggestions"
-msgstr ""
+msgstr "Segnala un errore o invia suggerimenti"
 
 #: src/app/lenmus_welcome_window.cpp:190
 msgid "Learn and practise music theory"
@@ -1214,35 +1213,35 @@ msgstr "Accordi"
 
 #: src/auxmusic/lenmus_cadence.cpp:1453
 msgid "Not all chord steps in the chord"
-msgstr ""
+msgstr "Non tutti i passi dell'accordo nell'accordo"
 
 #: src/auxmusic/lenmus_cadence.cpp:1455
 msgid "Acorde completo. Contiene todas las notas (en todo caso, elidir la 5ª)"
-msgstr ""
+msgstr "Accordo completo. Contiene tutte le note (in ogni caso, evita il 5 °)"
 
 #: src/auxmusic/lenmus_cadence.cpp:1457
 msgid "Parallel motion of perfect octaves, perfect fifths or unisons"
-msgstr ""
+msgstr "Moto parallelo di ottave perfette, quinte o unisoni perfetti"
 
 #: src/auxmusic/lenmus_cadence.cpp:1459
 msgid "Resultant fifths or octaves in no valid cases"
-msgstr ""
+msgstr "Quinte o ottave risultanti in nessun caso valido"
 
 #: src/auxmusic/lenmus_cadence.cpp:1461
 msgid "The fifth is doubled"
-msgstr ""
+msgstr "Il quinto è raddoppiato"
 
 #: src/auxmusic/lenmus_cadence.cpp:1463
 msgid "The leading tone is doubled"
-msgstr ""
+msgstr "Il tono principale è raddoppiato"
 
 #: src/auxmusic/lenmus_cadence.cpp:1465
 msgid "Scale degree seven (the leading tone) doesn't resolve to tonic"
-msgstr ""
+msgstr "Il grado di scala sette (il tono principale) non si risolve in tonico"
 
 #: src/auxmusic/lenmus_cadence.cpp:1467
 msgid "The seventh does not resolve down by second"
-msgstr ""
+msgstr "Il settimo non si risolve al secondo"
 
 #: src/auxmusic/lenmus_cadence.cpp:1469
 msgid "Notes interval greater than one octave (other than bass-tenor)"
@@ -1250,32 +1249,37 @@ msgstr ""
 
 #: src/auxmusic/lenmus_cadence.cpp:1471
 msgid "Notes not in ascending sequence or duplicated"
-msgstr ""
+msgstr "Note non in sequenza crescente o duplicate"
 
 #: src/auxmusic/lenmus_cadence.cpp:1473
 msgid "Voice overlap"
-msgstr ""
+msgstr "Sovrapposizione vocale"
 
 #: src/auxmusic/lenmus_cadence.cpp:1475
 msgid ""
 "Chromatic accidental not resolved in the same direction than key accidental"
 msgstr ""
+"Accidentale cromatica non risolta nella stessa direzione della chiave accidentale"
 
 #: src/auxmusic/lenmus_cadence.cpp:1478
 msgid ""
 "No es conveniente exceder el intervalo de sexta, exceptuando la octava justa"
 msgstr ""
+"Non è conveniente superare l'intervallo del sesto, ad eccezione dell'ottavo giusto
 
 #: src/auxmusic/lenmus_cadence.cpp:1481
 msgid ""
 "Bass moves by step and not all other voices moves in the opposite direction"
 msgstr ""
+"I bassi si muovono passo dopo passo e non tutte le altre voci si muovono nella direzione opposta"
 
 #: src/auxmusic/lenmus_cadence.cpp:1484
 msgid ""
 "Cuando el bajo enlaza el V grado con el VI (cadencia rota), en el acorde de "
 "VI grado se duplica la tercera"
 msgstr ""
+"Quando il basso collega il grado V con il VI (cadenza rotta), nell'accordo di"
+"Il grado VI raddoppia il terzo"
 
 #: src/auxmusic/lenmus_cadence.cpp:1511 src/auxmusic/lenmus_cadence.cpp:1512
 #: src/auxmusic/lenmus_cadence.cpp:1513 src/auxmusic/lenmus_cadence.cpp:1514
@@ -1732,7 +1736,7 @@ msgstr "Fine ripetizione"
 
 #: src/auxmusic/lenmus_utilities.cpp:308
 msgid "Start barline"
-msgstr ""
+msgstr "Inizia stanghetta"
 
 #: src/auxmusic/lenmus_utilities.cpp:309
 msgid "Double repetition"
@@ -1740,11 +1744,11 @@ msgstr "Ripetizione doppia"
 
 #: src/auxmusic/lenmus_utilities.cpp:310
 msgid "Double repetition alt."
-msgstr ""
+msgstr "Doppia ripetizione alt."
 
 #: src/auxmusic/lenmus_utilities.cpp:331
 msgid "Default stem"
-msgstr ""
+msgstr "Steam predefinito"
 
 #: src/auxmusic/lenmus_utilities.cpp:332
 msgid "Stem up"
@@ -2124,43 +2128,43 @@ msgstr "Stop %d"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:156
 msgid "Play fragment 1"
-msgstr ""
+msgstr "Riproduci frammento 1"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:157
 msgid "Play fragment 2"
-msgstr ""
+msgstr "Riproduci frammento 2"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:158
 msgid "Play fragment 3"
-msgstr ""
+msgstr "Riproduci frammento 3"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:159
 msgid "Play fragment 4"
-msgstr ""
+msgstr "Riproduci frammento 4"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:161
 msgid "Stop fragment 1"
-msgstr ""
+msgstr "Ferma frammento 1"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:162
 msgid "Stop fragment 2"
-msgstr ""
+msgstr "Ferma frammento 2"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:163
 msgid "Stop fragment 3"
-msgstr ""
+msgstr "Ferma frammento 3"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:164
 msgid "Stop fragment 4"
-msgstr ""
+msgstr "Ferma frammento 4"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:295
 msgid "This is the solution (in colour, missing in your score):"
-msgstr ""
+msgstr "Questa è la soluzione (a colori, mancante nel tuo punteggio):"
 
 #: src/exercises/ctrols/lenmus_dictation_ctrol.cpp:305
 msgid "Perfect!"
-msgstr "¡Perfetto!"
+msgstr "Perfetto!"
 
 #: src/exercises/ctrols/lenmus_ear_intervals_ctrol.cpp:101
 #: xrc/xrc_strings.cpp:5
@@ -3170,7 +3174,7 @@ msgstr "Problema. Quanti incidenti ha la prossima armatura di chiave ?:"
 
 #: src/exercises/ctrols/lenmus_theo_music_reading_ctrol.cpp:154
 msgid "Start with count off"
-msgstr ""
+msgstr "Inizia con il conto alla rovescia"
 
 #: src/exercises/ctrols/lenmus_theo_music_reading_ctrol.cpp:161
 msgid "Play with metronome"
@@ -3709,15 +3713,15 @@ msgstr "(Non specificata)"
 
 #: src/globals/lenmus_actions.cpp:342
 msgid "General actions on documents"
-msgstr ""
+msgstr "Azioni generali sui documenti"
 
 #: src/globals/lenmus_actions.cpp:344
 msgid "Application appearance and layout"
-msgstr ""
+msgstr "Aspetto e layout dell'applicazione"
 
 #: src/globals/lenmus_actions.cpp:346
 msgid "Toolbox: select tools and options"
-msgstr ""
+msgstr "Casella degli strumenti: seleziona strumenti e opzioni"
 
 #: src/globals/lenmus_actions.cpp:348
 msgid "Score edition"
@@ -3725,59 +3729,59 @@ msgstr ""
 
 #: src/globals/lenmus_actions.cpp:350
 msgid "Edition: general actions"
-msgstr ""
+msgstr "Edizione: azioni generali"
 
 #: src/globals/lenmus_actions.cpp:407
 msgid "Create a new blank document"
-msgstr ""
+msgstr "Crea un nuovo documento vuoto"
 
 #: src/globals/lenmus_actions.cpp:412
 msgid "Open a existing document"
-msgstr ""
+msgstr "Apri un documento esistente"
 
 #: src/globals/lenmus_actions.cpp:417
 msgid "Reload current document"
-msgstr ""
+msgstr "Ricarica il documento corrente"
 
 #: src/globals/lenmus_actions.cpp:422
 msgid "Open a music book"
-msgstr ""
+msgstr "Apri un libro di musica"
 
 #: src/globals/lenmus_actions.cpp:427
 msgid "Close current document"
-msgstr ""
+msgstr "Chiudi il documento corrente"
 
 #: src/globals/lenmus_actions.cpp:432
 msgid "Save current document to file"
-msgstr ""
+msgstr "Salva il documento corrente in un file"
 
 #: src/globals/lenmus_actions.cpp:437
 msgid "Save current document with a different name"
-msgstr ""
+msgstr "Save current document with a different name"
 
 #: src/globals/lenmus_actions.cpp:442
 msgid "Convert document to latest format"
-msgstr ""
+msgstr "Converti il documento nell'ultimo formato"
 
 #: src/globals/lenmus_actions.cpp:447
 msgid "Close all documents"
-msgstr ""
+msgstr "Chiudi tutti i documenti"
 
 #: src/globals/lenmus_actions.cpp:452
 msgid "Print current document"
-msgstr ""
+msgstr "Stampa il documento corrente"
 
 #: src/globals/lenmus_actions.cpp:457
 msgid "Zoom in"
-msgstr ""
+msgstr "Zoom avanti"
 
 #: src/globals/lenmus_actions.cpp:462
 msgid "Zoom out"
-msgstr ""
+msgstr "Zoom indietro"
 
 #: src/globals/lenmus_actions.cpp:467
 msgid "Allow edition of current document"
-msgstr ""
+msgstr "Consenti edizione del documento corrente"
 
 #: src/globals/lenmus_actions.cpp:474
 msgid "Exit program"
@@ -3789,39 +3793,39 @@ msgstr "Configura le opzioni di stampa"
 
 #: src/globals/lenmus_actions.cpp:487
 msgid "Undo last action"
-msgstr ""
+msgstr "Annulla l'ultima azione"
 
 #: src/globals/lenmus_actions.cpp:492
 msgid "Redo last undo"
-msgstr ""
+msgstr "Ripeti l'ultimo annullamento"
 
 #: src/globals/lenmus_actions.cpp:498
 msgid "Move cursor back"
-msgstr ""
+msgstr "Sposta il cursore indietro"
 
 #: src/globals/lenmus_actions.cpp:503
 msgid "Move cursor forward"
-msgstr ""
+msgstr "Sposta il cursore in avanti"
 
 #: src/globals/lenmus_actions.cpp:508
 msgid "Move cursor down"
-msgstr ""
+msgstr "Sposta il cursore verso il basso"
 
 #: src/globals/lenmus_actions.cpp:513
 msgid "Move cursor up"
-msgstr ""
+msgstr "Sposta il cursore verso l'alto"
 
 #: src/globals/lenmus_actions.cpp:518
 msgid "Cursor: enter object"
-msgstr ""
+msgstr ""Cursore: inserisci oggetto""
 
 #: src/globals/lenmus_actions.cpp:523
 msgid "Cursor: exit object"
-msgstr ""
+msgstr "Cursore: uscita oggetto"
 
 #: src/globals/lenmus_actions.cpp:528
 msgid "Move cursor to next page"
-msgstr ""
+msgstr "Sposta il cursore sulla pagina successiva"
 
 #: src/globals/lenmus_actions.cpp:533
 #, fuzzy
@@ -3835,7 +3839,7 @@ msgstr "Cancella selezione"
 
 #: src/globals/lenmus_actions.cpp:544
 msgid "Move cursor back and delete object"
-msgstr ""
+msgstr "Sposta il cursore indietro ed elimina l'oggetto"
 
 #: src/globals/lenmus_actions.cpp:550
 #, fuzzy
@@ -3844,7 +3848,7 @@ msgstr "Inserisci chiave"
 
 #: src/globals/lenmus_actions.cpp:555
 msgid "Insert a paragraph"
-msgstr ""
+msgstr "Inserisci un paragrafo"
 
 #: src/globals/lenmus_actions.cpp:560
 #, fuzzy
@@ -4106,7 +4110,7 @@ msgstr ""
 
 #: src/globals/lenmus_actions.cpp:879
 msgid "Action code not defined."
-msgstr ""
+msgstr "Codice azione non definito."
 
 #: src/options/lenmus_colors_opt_panel.cpp:49
 msgid "Choose colors to use:"
@@ -4246,7 +4250,7 @@ msgstr ""
 
 #: src/options/lenmus_other_opt_panel.cpp:112
 msgid "Enable experimental (unstable / in development) features"
-msgstr ""
+msgstr "Abilita le funzioni sperimentali (instabili / in sviluppo)"
 
 #: src/options/lenmus_playback_opt_panel.cpp:102
 msgid "Playback options"
@@ -4282,11 +4286,11 @@ msgstr "Errore: larghezza non valida"
 
 #: src/options/lenmus_shortcuts_opt_panel.cpp:220
 msgid "Keyboard shortcuts"
-msgstr ""
+msgstr "Scorciatoie da tastiera"
 
 #: src/options/lenmus_shortcuts_opt_panel.cpp:238
 msgid "Category:"
-msgstr ""
+msgstr "Categoria:"
 
 #: src/options/lenmus_shortcuts_opt_panel.cpp:270
 msgid "Action"
@@ -4298,7 +4302,7 @@ msgstr ""
 
 #: src/options/lenmus_shortcuts_opt_panel.cpp:292
 msgid "Reset all to default"
-msgstr ""
+msgstr "Ripristina tutto ai valori predefiniti"
 
 #: src/options/lenmus_shortcuts_opt_panel.cpp:295
 #, fuzzy
@@ -4318,11 +4322,11 @@ msgstr "Configurazione guidata della partitura"
 
 #: src/options/lenmus_sound_opt_panel.cpp:85
 msgid "Use external synthesizer"
-msgstr ""
+msgstr "Usa un sintetizzatore esterno"
 
 #: src/options/lenmus_sound_opt_panel.cpp:85
 msgid "Use internal synthesizer"
-msgstr ""
+msgstr "Usa il sintetizzatore interno"
 
 #: src/options/lenmus_sound_opt_panel.cpp:87
 #, fuzzy
@@ -4344,7 +4348,7 @@ msgstr "Intervalli"
 
 #: src/options/lenmus_sound_opt_panel.cpp:107
 msgid "External synth."
-msgstr ""
+msgstr "Synth esterno."
 
 #: src/options/lenmus_sound_opt_panel.cpp:109
 #, fuzzy
@@ -4360,7 +4364,7 @@ msgstr "Metronomo attivo"
 
 #: src/options/lenmus_sound_opt_panel.cpp:239
 msgid "SoundFont to use"
-msgstr ""
+msgstr "SoundFont da usare"
 
 #: src/options/lenmus_sound_opt_panel.cpp:251
 msgid ""
@@ -4368,10 +4372,13 @@ msgid ""
 "instrument sounds. The internal synthesizer needs a SoundFont to generate "
 "the sounds."
 msgstr ""
+"Un Soundfont è un file (.sf2 / .sf3) con una raccolta di campioni"
+"suoni dello strumento. Il sintetizzatore interno ha bisogno di un SoundFont per generare"
+"i suoni".
 
 #: src/options/lenmus_sound_opt_panel.cpp:258
 msgid "Soundfont to use"
-msgstr ""
+msgstr "Soundfont da usare"
 
 #: src/options/lenmus_sound_opt_panel.cpp:274
 #, fuzzy
